@@ -16,17 +16,40 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name:** Mark Schaefer
+- **Date:** 24 March 2025
+- **Current Role/Position:** Sports Co-ordinator
+- **Field of Interest:** Full-stack developer specializing in backend systems, real-time features, and user-friendly API integration.
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
+    - List your current skills and areas of expertise:
+
+    - Python – Intermediate: Comfortable with syntax, loops, functions, classes. I can use Python to build back-end logic in Django.
+    - JavaScript – Beginner to Intermediate: Familiar with DOM, events, fetch, and some async, but still learning. I really enjoy using JS to manipulate a webpage in real-time.
+    - Django – Intermediate: I have built multiple apps in Django and Flask, I have a decent understanding of models, views, and templates. I am still learning best practices, documentation, and how to write clean code for more complex projects.
+    - C – Beginner: Completed CS50, familiar with syntax and memory concepts, but haven't used it much beyond coursework. I enjoyed learning about pointers and how much control you get from a language like C. I have a lot to learn about algorithms and refactoring code to be as fast as possible.
+    - Websockets - I have experimented with real-time communications between the browser and server. I am eager to explore this more.
+
+    **Projects that I have built**
+
+    - Ecommerce site in Django
+    - Stock market trading app (simulation trading) in Flask
+    - Steam Clone/game with leaderboard and profile (very far from being a complete Steam clone) in Django
+    - Google search clone (no framework)
+    - Activity tracking app in Flask
+    - Gmail clone in Django (a lot of the code here was provided)
+    - Social media app in Django
+ 
+    **Skills to improve**
+
+    - CSS and front-end design/layout
+    - Database management
+    - Data analytics
+
+
 2. **Interests and Values**:
     
     - Describe your key interests related to your career.
