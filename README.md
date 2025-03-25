@@ -52,8 +52,29 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 2. **Interests and Values**:
     
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+    I am passionate about backend development, creative problem-solving, and real-time systems. I enjoy exploring unconventional solutions and finding innovative ways to optimize functionality. Rather than just accepting "the standard way," I prefer to test new approaches, even if they do not always work. I believe that understanding what’s possible is just as valuable as finding the correct solution. From the research that I have done, my interests seem to align with roles such as backend engineer, software engineer, systems architect, and real-time systems developer. In these roles, I can focus on optimizing performance and pushing the boundaries of what can be done with the existing technologies.
+
+
+    🤝 Collaborative but Independent-Friendly
+    - I enjoy working with others but also value time set aside for individual focus.
+
+    ⚖️ Balanced, Hardworking, and Professional
+    - I thrive in a workplace where people are dedicated and hardworking but maintain a calm and supportive attitude when mistakes or issues arise. While I understand that work is for work, I appreciate compassionate and understanding colleagues who support one another.
+
+    📚 Growth-Oriented & Supportive
+    - I value a knowledge-sharing culture where everyone works towards the same goal and helps each other grow. 
+    - I also enjoy healthy competition—true competitors push each other to improve, not win by gatekeeping information.
+
+    🔥 High-Pressure, Low-Drama
+    - I handle pressure well and believe deadlines help keep me focused and in the flow. However, I prefer working with colleagues who manage stress calmly and professionally rather than creating conflict.
+
+    - I strongly dislike environments where people become aggressive, assign blame, or create unnecessary drama under pressure.
+
+    🌟 I imagine the correct work environment for me to be something like:
+    ✅ Small to mid-sized teams where I can collaborate but also focus on independent tasks.
+    ✅ Tech startups or product-based companies that encourage innovation and do not handcuf their employees with fear of failure.
+    ✅ Developer teams with a strong learning culture (e.g., code reviews, mentorship, and open discussions).
+    ✅ Remote or hybrid work environments where I can engage with teammates but also have my own focused work time.
 
 ### Part 2: Career Exploration Insights
 
