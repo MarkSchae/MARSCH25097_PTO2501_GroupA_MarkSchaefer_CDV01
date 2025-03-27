@@ -71,6 +71,7 @@ By completing this reflection, you will gain a clearer understanding of your car
     - I strongly dislike environments where people become aggressive, assign blame, or create unnecessary drama under pressure.
 
     🌟 I imagine the correct work environment for me to be something like:
+    
     ✅ Small to mid-sized teams where I can collaborate but also focus on independent tasks.
     ✅ Tech startups or product-based companies that encourage innovation and do not handcuf their employees with fear of failure.
     ✅ Developer teams with a strong learning culture (e.g., code reviews, mentorship, and open discussions).
@@ -81,7 +82,25 @@ By completing this reflection, you will gain a clearer understanding of your car
 1. **Industries and Roles Explored**:
     
     - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
+
+    - Finacial Tech
+    - Game engine development
+    - Streaming media
+    - Cybersecurity
+    - Internet of things
+    - Software R&D
+
+    **Particular areas of interest.**
+
+    - I am intrigued by the idea of building a fast and efficient game engine that allows for simple development, excellent graphic fidelityy, and smooth framerates for any type of game.
+
+    - Cybersecurity is exciting to me as it is a blend of problem-solving skills, ethical hacking, and the research and development of proactive defense strategies. I like the idea of stopping bad things from happeing to people.
+
+    - The Internet of Things (IoT) is fascinating because it blends software with hardware. The idea of programming real-world objects to perform complex tasks is something I find very appealing.
+
+    - Software Research & Development (R&D) aligns with my passion for exploring unconventional ways to achieve goals. I thrive on learning and discovery, often experimenting with different solutions to push boundaries. I tend to lose interest once I have uncovered what I set out to learn or the time for researching how to do something is done and it is time to finish the idea. I think I would love to work in an environment where I can focus on innovation while handing off projects to others for refinement and finalization.
+
+
 2. **Alignment with Personal Profile**:
     
     - Reflect on how these industries/roles align with your skills, interests, and values.
