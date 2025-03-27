@@ -105,6 +105,10 @@ By completing this reflection, you will gain a clearer understanding of your car
     
     **Reflect on how these industries/roles align with your skills, interests, and values.**
 
+    - End to end Development
+        This aligns with all my interests and my current skills trajectory. Being profecient in building out websites end to end will be the foundation for all my future projects.
+
+
     - Game Engine Development
         This aligns with my problem-solving skills and passion for optimization. I enjoy finding creative solutions to technical constraints, making this a compelling field. While I have experience working with real-time systems and WebSockets, I have very little experience with graphics programming, low-level optimizations, and engine architecture. To build expertise, I need to explore C++ in-depth, rendering pipelines, physics engines, and performance tuning.
 
@@ -176,10 +180,75 @@ By completing this reflection, you will gain a clearer understanding of your car
     
     - List your specific, measurable, achievable, relevant, and time-bound goals.
     - Explain the rationale behind each goal.
+
+    Beginning with a end project in mind. End project I am looking at creating is a game dev platform where I have built the game engine that devs can use to create game easily and sell them on the site. So the site is end to end website, game engine dev, money transaction functionality. I think beginning with a project in mind can help me stay focused and set my priorities accordingly. This particular idea does not have to be the final app, this is just more of a proof of concept for staying motivated towards learning new technologies and progression. With these skills I could piviot to many differnt ideas but the main end goal is to work for myself.
+
+    **Goal 1:** Complete and excel in the Full-Stack JavaScript Bootcamp that I am currently enrolled in with CodeSpace
+
+    **Specific**: Complete the Full-Stack JavaScript Bootcamp and gain proficiency in building end-to-end web applications using technologies like Node.js, Express, React, and databases.
+
+    **Measurable**: Complete each module of the bootcamp and build at least 3 end-to-end projects.
+
+    **Achievable**: Set a study schedule of 10-15 hours per week for 12 months.
+
+    **Relevant**: This goal will provide the necessary skills to develop websites and applications from the ground up that are scalable and user-friendly.
+
+    **Time-bound**: Complete the bootcamp within 12 months.
+
+    **Goal 2:** Secure an Entry-Level Full-Stack Developer Job
+
+    **Specific**: Obtain a full-time or part-time entry-level full-stack developer job that allows me to use my JS skills in real-world applications. A bonus would be to work in a company that values mentorship and upskilling their employees for the future.
+
+    **Measurable**: Apply to at least 5 jobs per week and attend interviews until securing a appropriate position to start to build my future in the industry.
+
+    **Achievable**: Leveraging my results in the bootcamp. Building a professional portfolio using the end to end projects that I competed in the bootcamp and the other courses that I have completed.
+
+    **Relevant**: This job will teach me real-world development processes and provide exposure to the full development cycle from front-end to back-end. I will be exposed to the industry and the workflow for software developers in this type of industry. 
+
+    **Time-bound**: Secure a entry level position within 3 months after completing the bootcamp.
+
+    **Goal 3:** Learn the Skills Necessary for Game Dev Platform Website project
+
+    **Specific**: While working at the entry-level position, I will learn the key skills required to launch a game dev platform, including advanced web development, e-commerce features, and real-time functionality (e.g., WebSockets). Be considered for a junior-mid level position in the indusrty.
+
+    **Measurable**: Research and learn through online courses, tutorials, and projects focused on game dev platforms, building game engines, and e-commerce systems.
+
+    **Achievable**: Dedicate 5-10 hours per week towards building a roadmap of what skills are required and beginning the process towards acquiring these skills.
+
+    **Relevant**: These skills will be crucial for building and maintaining the platform once I am ready to launch it.
+
+    **Time-bound**: Be ready to start working on the game dev platform website in 12-18 months of working in the industry and acquiring the relevant skills.
+
+
+
 2. **Long-term Goals** (3-5 years and beyond):
     
     - Outline your long-term career aspirations.
     - Describe how these align with your interests and skills.
+
+    **Goal 4:** Launch the Game Dev Platform Website 
+
+    **Specific**: Build a Minimum Viable Product (MVP) for the game development platform website where users can sign up, upload, and sell games. 
+
+    **Measurable**: A soft launch of a working MVP where the primary features (user accounts, uploading, and transaction features) are functional.
+
+    **Achievable**: Leverage the skills I learn in my full-stack JS job to build out the website’s back-end, front-end, and user experience.
+
+    **Relevant**: This website will form the core foundation of the game dev platform I envision, where aspiring devs can upload and monetize their games.
+
+    **Time-bound**: Aim for an MVP launch within 18 months.
+
+    **Goal 5:** Begin building the game engine and start researching how to scale a game engine so that devs can use the engine. The other option is to use a open source game engine and integrate that into the website game dev platform.
+
+    **Specific**: Research and development into creating a game engine that satisfies my ambition of creating a engine that provides devs with a great experience when developing a game. 
+
+    **Measurable**: Completing a prototype of the game engine. Learning what makes a good user experience with a game engine and how to optimize it.
+
+    **Achievable**: Having a completed prototype to experiment with.
+
+    **Relevant**: Building the game engine is the final stage of achieving the end goal that I started out with in my mind.
+
+    **Time-bound**: Two years to build a viable prototype.
 
 ### Part 4: Action Plan
 
@@ -187,10 +256,36 @@ By completing this reflection, you will gain a clearer understanding of your car
     
     - Detail specific actions or steps needed to achieve each short-term goal.
     - Include any resources or support required.
+
+    **Plan 1:** Study Full-Stack JS (Bootcamp)
+
+     - Action: Dedicate consistent hours weekly to complete bootcamp lessons, finish projects, and understand both front-end and back-end technologies.
+
+    - Outcome: Gain proficiency in Full-Stack JavaScript and be capable of building user-friendly, functional web applications.
+
+    **Plan 2:** Apply for Entry-Level Full-Stack Developer Jobs
+
+    - Action: Create a standout portfolio, highlight completed bootcamp projects, and apply for at least 5 jobs per week.
+
+    - Outcome: Secure a position where I can work on live applications, improving my skills and gaining real-world experience.
+
+
 2. **Preparation for Long-term Goals**:
     
     - Describe the preparations or groundwork necessary for your long-term aspirations.
     - Consider additional skills, experiences, or qualifications needed.
+
+    **Plan 3:** Learn Advanced Web Development & Game Platform Features
+
+    - Action: Spend time studying the advanced technologies for real-time applications (e.g., WebSockets), e-commerce systems (e.g., payment gateways), and backend architecture for scalability.
+
+    - Outcome: Acquire the knowledge to eventually develop the full features required for a game dev platform website. Be considered for a junior-mid level position in the industry.
+
+    **Plan 4:** Launch Game Dev Platform Website MVP
+
+    - Action: Build the MVP by integrating features like user accounts, game uploads, and basic transaction functionality. Utilize resources from job experience and learning.
+
+    - Outcome: Launch a functional MVP for the game dev platform where users can interact with the system and test the concept.
 
 ### Part 5: Reflection on Challenges and Opportunities
 
