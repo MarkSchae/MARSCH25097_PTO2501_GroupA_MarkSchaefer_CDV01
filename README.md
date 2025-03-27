@@ -103,8 +103,72 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 2. **Alignment with Personal Profile**:
     
-    - Reflect on how these industries/roles align with your skills, interests, and values.
-    - Identify any gaps or areas for further exploration.
+    **Reflect on how these industries/roles align with your skills, interests, and values.**
+
+    - Game Engine Development
+        This aligns with my problem-solving skills and passion for optimization. I enjoy finding creative solutions to technical constraints, making this a compelling field. While I have experience working with real-time systems and WebSockets, I have very little experience with graphics programming, low-level optimizations, and engine architecture. To build expertise, I need to explore C++ in-depth, rendering pipelines, physics engines, and performance tuning.
+
+    - Cybersecurity
+        Cybersecurity appeals to my love of problem-solving, real-time systems, and sense of justice. My experience with backend development in Django and SQL databases provides a solid starting foundation. I have built applications with authentication, API security measures, and real-time communication, but I need to expand my knowledge of networking, security frameworks, ethical hacking, and penetration testing. Gaining hands-on experience with secure coding practices, encryption techniques, and vulnerability testing would be essential for further growth in this field.
+
+    - Internet of Things (IoT)
+        My current experience is more software-focused, but I find bridging the gap between software and hardware fascinating. I have some experience building computers, but I would need to gain hands-on experience with embedded systems, microcontrollers, hardware communication protocols, and efficient resource management. Understanding low-level programming for hardware interactions (e.g., C, Rust, or Assembly) would be valuable.
+
+    - Software Research & Development (R&D)
+        This field aligns with my curiosity and drive to explore unconventional solutions. I thrive on creative problem-solving, experimentation, and pushing the boundaries of what’s possible.
+
+    - Relevant experience:
+        Completed CS50 and CS50W, gaining experience with C, Python, Flask, and SQL. My final project involved building an activity tracking app that integrated Flask, SQLite, Plotly for data visualization, JavaScript, and interval-based alerts.
+
+    **Developed multiple Django projects, including:**
+
+    - Finance app (handling mock transactions and market data)
+
+    - Google clone (search functionality)
+
+    - E-commerce platform (buying/selling items) Actual transactions are not functional yet
+
+    - Video game with a real-time leaderboard
+
+    - Weather API application
+
+    - Real-time chat system using WebSockets
+
+    Currently enrolled in a Full-Stack JavaScript coding bootcamp, expanding my skill set in Node.js, React, and modern JavaScript frameworks.
+
+
+    **Identify any gaps or areas for further exploration.**
+
+    - Game Engine Development
+    🔍 Gaps:
+
+        Graphics Programming – Need to learn rendering pipelines (OpenGL, Vulkan, DirectX).
+        Low-level Performance Optimization – Improve knowledge of C++, memory management, and multi-threading.
+        Physics and Game Loop Mechanics – Study physics engines and time-step synchronization.
+        Scalability – Explore distributed systems for multiplayer game engines.
+
+    - Cybersecurity
+    🔍 Gaps:
+
+        Network Security & Protocols – Learn TCP/IP, firewalls, IDS/IPS, and secure communications.
+        Penetration Testing & Ethical Hacking – Gain hands-on experience with tools like Metasploit, Burp Suite, and Wireshark.
+        Cryptography – Understand encryption, hashing, and secure key management.
+        Compliance & Security Standards – Learn OWASP Top 10, NIST, and GDPR regulations.
+
+    - Internet of Things (IoT)
+    🔍 Gaps:
+
+        Embedded Systems – Learn C, Rust, or MicroPython for low-level programming.
+        Microcontrollers & Sensors – Gain hands-on experience with Raspberry Pi, Arduino, ESP32, or STM32.
+        Real-time Communication – Study MQTT, CoAP, and WebSockets in IoT.
+        Power & Resource Management – Optimize low-power devices for efficiency.
+
+    - Software Research & Development (R&D)
+    🔍 Gaps:
+
+        Scientific Approach to R&D – Learn structured experimentation, A/B testing, and documentation.
+        Performance Benchmarking – Use profiling tools to analyze software efficiency.
+
 
 ### Part 3: SMART Career Goals
 
