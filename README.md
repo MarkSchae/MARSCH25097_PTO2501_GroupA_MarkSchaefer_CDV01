@@ -293,10 +293,92 @@ By completing this reflection, you will gain a clearer understanding of your car
     
     - Identify potential obstacles or challenges in reaching your goals.
     - Consider strategies to overcome these challenges.
+
+    **Balancing Bootcamp & current job**
+    - One of the biggest challenges will be managing time effectively while completing the CodeSpace Bootcamp and working full-time.
+
+    **Strategy to Overcome It:**
+    - Stick to a structured schedule but allowing myself time to recover and not burnout.
+    - Increase my coding time when I am on holiday from my current job.
+
+    **Getting an Entry-Level Job Without Professional Experience**
+    - Breaking into the tech industry without prior professional experience or a relavent cs degree will be challenging.
+
+    **Strategy to Overcome It:**
+    - Build a strong portfolio featuring complete, polished projects, including personal and bootcamp projects.
+    - Contribute to open-source projects to showcase practical experience and collaboration skills.
+    - Leverage the current connections I have in the tech industry to get my portfolio out to potential employers.
+    - Build at least one fully functional project where all the features as they would if the project was rolled out for sale/use by the general public (not just mock data and mock feature functionality).
+
+    **Learning Advanced Web Development Concepts**
+    - Scaling applications, handling transactions, and implementing real-time communications functionality will require advanced technical knowledge.
+
+    **Strategy to Overcome It:**
+    - Focus on one advanced topic at a time instead of trying to learn everything at once.
+    - Build small prototype projects to apply concepts in a hands-on manner.
+    - Take structured online courses focused on advanced web development topics (I have seen that with the CodeSpace bootcamp I am kept focused and structured with a curated program/course).
+
+    **Developing a Mimimal Viable Product prototype**
+    - Creating a functional MVP of the game dev platform website/or any similar idea while working what will hopefully be my first full-time job in the tech industry will be very difficult.
+
+    **Strategy to Overcome It:**
+    - Use existing libraries and frameworks like Next.js for server-side rendering (SSR), Stripe for payments, and Firebase for authentication to speed up development.
+    - Focus on a lean MVP with only the most essential features, and iterate over time.
+
+    **Game Engine Complexity**
+    - Developing a custom game engine from scratch is highly complex and time-consuming, requiring deep knowledge of graphics programming, physics, and optimization.
+
+    **Strategy to Overcome It:**
+    - Build the project around open-source game engines like Godot or Bevy instead of building from scratch.
+    - Join game dev communities to learn from experienced developers and avoid common pitfalls.
+    - Work on modifying existing engines to gain experience before attempting a fully custom engine.
+
+
 2. **Opportunities for Growth**:
     
     - Highlight any opportunities you can leverage for career growth.
     - Include networking, mentorship, or educational opportunities.
+
+    **Networking & Mentorship**
+    - Connecting with experienced developers and peers in a similar point in their learning journey can provide invaluable guidance, job referrals, and learning opportunities. Keeping in contact with friends that currently work in the tech industry will give me the opportunity to have my portfolio assessed by a industry professional when it is ready.
+
+    **How to Leverage It:**
+    - Attend local tech meetups, hackathons, and online coding communities like Discord and Reddit.
+    - Reach out to professionals on LinkedIn for informational interviews and mentorship.
+    - Engage in CodeSpace alumni networks to learn from those who have successfully landed jobs.
+
+    **Internships & Open-Source Contributions**
+    - Hands-on experience through internships or contributing to open-source projects can make up for a lack of formal work experience.
+
+    **How to Leverage It:**
+    - Look for start-ups, freelance projects, or contract roles to gain industry exposure.
+    - Contribute to open-source projects related to web development or game engines.
+    - Use GitHub actively to showcase contributions and projects quality.
+
+    **Building a Unique Portfolio**
+    - A strong portfolio with real-world applications.
+
+    **How to Leverage It:**
+    - Building real-world prototype projects that display more advanced skills.
+    - Ensure projects have detailed documentation and live demos.
+    - Include features that demonstrate the appropriate skills for the positions/field that I am interested in and apply to.
+
+    **Freelancing for Quick Experience**
+    - Taking on more basic and smaller project work will provide me with real-world experience working with a client. This will give me confidence and show potential employers that I have some experience.
+
+    **How to Leverage It:**
+    - Take on small freelance jobs with local businesses or maybe even on a freelancing platform.
+    - Use freelancing as a way to build a resume with real-world projects.
+
+    **CodeSpace Career Services & Alumni Network**
+    - CodeSpace offers career support and job placement assistance.
+
+    **How to Leverage It:**
+    - Utilize career coaching and resume-building sessions.
+    - Participate in mock interviews to improve technical and behavioral interview skills.
+    - Connect with alumni who work at tech companies to gain insights and potential referrals.
+
+
 
 ### Submission
 
