@@ -32,7 +32,8 @@ By completing this reflection, you will gain a clearer understanding of your car
     - Django – Intermediate: I have built multiple apps in Django and Flask, I have a decent understanding of models, views, and templates. I am still learning best practices, documentation, and how to write clean code for more complex projects.
     - C – Beginner: Completed CS50, familiar with syntax and memory concepts, but haven't used it much beyond coursework. I enjoyed learning about pointers and how much control you get from a language like C. I have a lot to learn about algorithms and refactoring code to be as fast as possible.
     - Websockets - I have experimented with real-time communications between the browser and server. I am eager to explore this more.
-    - CSS & HTML - Competent: I am compentent enough to create simple web pages with HTML and CSS. I have experience setting out templates and integrating jinja into the web page logic. I enjoy designing webpages but I do find that it is very time consuming for something that is fast becoming the area of a website that is templated. Perhaps this will open a gap in the market for creative webpages.
+    - CSS & HTML - Competent: I am competent enough to create simple web pages with HTML and CSS. I have experience setting out templates and integrating jinja into the web page logic. I enjoy designing web pages but I do find that it is very time consuming for something that is fast becoming the area of a website that is templated. Perhaps this will open a gap in the market for creative web pages.
+
 
     **Projects that I have built (not 100% complete/polished yet)**
 
@@ -49,7 +50,7 @@ By completing this reflection, you will gain a clearer understanding of your car
     - CSS and front-end design/layout
     - Database management
     - Data analytics
-    - Refactoring code for effiecency
+    - Refactoring code for efficiency
 
 
 2. **Interests and Values**:
@@ -72,14 +73,15 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 
     🔥 **High-Pressure, Low-Drama**
-    - I enjoy the feeling completing tasks whilst under preasure. I believe that deadlines help keep me focused and in the flow. However, I do prefer working with colleagues who manage stress calmly and professionally rather than creating conflict.
+    - I enjoy the feeling of completing tasks whilst under pressure. I believe that deadlines help keep me focused and in the flow. However, I do prefer working with colleagues who manage stress calmly and professionally rather than creating conflict.
     - I strongly dislike environments where people become aggressive, assign blame, or create unnecessary drama under pressure.
+
 
 
     🌟 **I imagine the correct work environment for me to be something like:**
     
     - ✅ Small to mid-sized teams where I can collaborate but also focus on independent tasks.
-    - ✅ Tech startups or product-based companies that encourage innovation and do not handcuf their employees with fear of failure.
+    - ✅ Tech startups or product-based companies that encourage innovation and do not handcuff their employees with fear of failure.
     - ✅ Developer teams with a strong learning culture (e.g., code reviews, mentorship, and open discussions).
     - ✅ Remote or hybrid work environments where I can engage with teammates but also have my own focused work time.
 
@@ -89,7 +91,7 @@ By completing this reflection, you will gain a clearer understanding of your car
     
     **List the industries or roles you have researched.**
 
-    - Finacial Tech
+    - Financial Tech
     - Game engine development
     - Streaming media
     - Cybersecurity
@@ -98,7 +100,7 @@ By completing this reflection, you will gain a clearer understanding of your car
 
     **Particular areas of interest.**
 
-    - I am intrigued by the idea of building a fast and efficient game engine that allows for simple development, excellent graphic fidelityy, and smooth framerates for any type of game.
+    - I am intrigued by the idea of building a fast and efficient game engine that allows for simple development, excellent graphic fidelity, and smooth frame rates for any type of game.
 
     - Cybersecurity is exciting to me as it is a blend of problem-solving skills, ethical hacking, and the research & development of proactive defense strategies. I like the idea of being an agent of justice.
 
@@ -112,16 +114,16 @@ By completing this reflection, you will gain a clearer understanding of your car
     **Reflect on how these industries/roles align with your skills, interests, and values.**
 
     - End to end Development
-        This aligns with all my interests and my current skills trajectory. Being profecient in building out websites end to end will be the foundation for all my future projects.
+        This aligns with all my interests and my current skills trajectory. Being proficient in building out websites end to end will be the foundation for all my future projects.
 
     - Game Engine Development
-        This aligns with my problem-solving skills and passion for optimization. I enjoy finding creative solutions to technical constraints, making this a compelling field. I also just enjoy playing video games which has been a hobby of mine for most of my life.
+        This aligns with my problem-solving skills and passion for optimization. I enjoy finding creative solutions to technical constraints, making this a compelling field. I also just enjoy playing video games, which has been a hobby of mine for most of my life.
 
     - Cybersecurity
         Cybersecurity appeals to my love of problem-solving, real-time systems, and my sense of justice.
 
     - Internet of Things (IoT)
-        My current experience is more software-focused, but I find bridging the gap between software and hardware fascinating. I have some experience building computers. I find the achievment of putting a piece of hardware together very gratifying.
+        My current experience is more software-focused, but I find bridging the gap between software and hardware fascinating. I have some experience building computers. I find the achievement  of putting a piece of hardware together very gratifying.
 
     - Software Research & Development (R&D)
         This field aligns with my curiosity and drive to explore unconventional solutions. I thrive on creative problem-solving, experimentation, and pushing the boundaries of what is possible/industry standard methods.
@@ -181,7 +183,9 @@ By completing this reflection, you will gain a clearer understanding of your car
     - List your specific, measurable, achievable, relevant, and time-bound goals.
     - Explain the rationale behind each goal.
 
-    Beginning with a end project in mind. The end project that I am planning on creating in the future is a game dev platform. The 'dream goal' is to build the game engine that devs can use to create games easily and sell them on the site. So the site would need end to end website dev, game engine dev, money transaction functionality, etc. I think beginning with a project in mind can help me stay focused and set my priorities accordingly. This particular idea does not have to be the final app, this is just more of a proof of concept for staying motivated towards learning new technologies and progression in line with my interests and 'dream goal' of working for myself. With these skills I could piviot to many differnt ideas but the main end goal is to work for myself. This is similar to Roblox or what Epic does with their engine. I would like to focus on making the 'Roblox' experience more suited to trained game devs and their needs to create a game in the way that they would like. I prefer a model with a steep learning curve for high reward to a all round easier user experience but having limited optimization and custimization. I want to focus on a custom engine that is lightweight but does not sacrifice graphic fedelity and can run smoothly on older hardware. A performance-optimized game engine for low-end PCs & mobile.
+
+    Beginning with an end project in mind. The end project that I am planning on creating in the future is a game dev platform. The 'dream goal' is to build the game engine that devs can use to create games easily and sell them on the site. So the site would need end to end website dev, game engine dev, money transaction functionality, etc. I think beginning with a project in mind can help me stay focused and set my priorities accordingly. This particular idea does not have to be the final app, this is just more of a proof of concept for staying motivated towards learning new technologies and progression in line with my interests and 'dream goal' of working for myself. With these skills I could pivot to many different ideas but the main end goal is to work for myself. This is similar to Roblox or what Epic does with their engine. I would like to focus on making the 'Roblox' experience more suited to trained game devs and their needs to create a game in the way that they would like. I prefer a model with a steep learning curve for high reward to an all round easier user experience but having limited optimization and customization. I want to focus on a custom engine that is lightweight but does not sacrifice graphic fidelity and can run smoothly on older hardware. A performance-optimized game engine for low-end PCs & mobile.
+
 
     **Goal 1:** Complete and excel in the software developer Bootcamp that I am currently enrolled in with CodeSpace.
 
@@ -191,31 +195,31 @@ By completing this reflection, you will gain a clearer understanding of your car
 
     - **Achievable**: Set a study schedule of 10-15 hours per week for 12 months. Open a line of communication with at least 5 of my peers.
 
-    - **Relevant**: This goal will provide the necessary skills to develop websites and applications from the ground up that are scalable and user-friendly. I am being provided with professional feedback from a acomplished coding coach. If I do well, I will be integrated into the CodeSpace network which will be a great step forward to getting a job in the tech industry.
+    - **Relevant**: This goal will provide the necessary skills to develop websites and applications from the ground up that are scalable and user-friendly. I am being provided with professional feedback from an acomplished coding coach. If I do well, I will be integrated into the CodeSpace network which will be a great step forward to getting a job in the tech industry.
 
     - **Time-bound**: Complete the bootcamp within 12 months.
 
 
     **Goal 2:** Secure an Entry-Level Full-Stack Developer Job
 
-    - **Specific**: Obtain a full-time or part-time entry-level software developer job (preferably in a enviroment where I can be mentored). A bonus would be to work in a company that values mentorship and upskilling their employees for the future. I imagine I would need some time and experience before I become a valuable employee in the tech industry.
+        - **Specific**: Obtain a full-time or part-time entry-level software developer job (preferably in an environment where I can be mentored). A bonus would be to work in a company that values mentorship and upskilling their employees for the future. I imagine I would need some time and experience before I become a valuable employee in the tech industry.
 
-    - **Measurable**: Apply to at least 5 jobs per week and attend interviews until securing a appropriate position to start to build my future in the industry. Reach out to my network for advice and guidance throughout this process.
+    - **Measurable**: Apply to at least 5 jobs per week and attend interviews until securing an appropriate position to start to build my future in the industry. Reach out to my network for advice and guidance throughout this process.
 
-    - **Achievable**: Leveraging my results in the bootcamp. Building a professional portfolio using the end to end projects that I competed in the bootcamp and the other courses that I have completed. Ensuring that my online presence is set up to attrack potential employers. Keeping in touch with my network of peers, especially the ones already working in the industry.
+    - **Achievable**: Leveraging my results in the bootcamp. Building a professional portfolio using the end to end projects that I completed in the bootcamp and the other courses that I have completed. Ensuring that my online presence is set up to attract potential employers. Keeping in touch with my network of peers, especially the ones already working in the industry.
 
-    - **Relevant**: This job will teach me real-world development processes and provide exposure to the full development cycle from front-end to back-end. I will be exposed to the industry and the workflow for software developers in this type of industry. I will learn what the day to day of a person in sofware development and what is expected at each level of employment. 
+    - **Relevant**: This job will teach me real-world development processes and provide exposure to the full development cycle from front-end to back-end. I will be exposed to the industry and the workflow for software developers in this type of industry. I will learn what the day to day of a person in software development and what is expected at each level of employment. 
 
-    - **Time-bound**: Secure a entry level position within 3-6 months after completing the bootcamp.
+    - **Time-bound**: Secure an entry level position within 3-6 months after completing the bootcamp.
 
 
-    **Goal 3:** Learn the Skills Necessary for my personal project/business (using the game dev platform as a base example). Pick a field in the industry to focus on and start to position myself to get a job in that field. I will use the example of game engine programmer as the field that I settled on.
+    **Goal 3:** Learn the Skills Necessary for my personal project/business (using the game dev platform as a base example). Pick a field in the industry to focus on and start to position myself to get a job in that field. I will use the example of a game engine programmer as the field that I settled on.
 
-    - **Specific**: While working at the entry-level position, I will learn the key skills required to launch a game dev platform, including advanced web development, e-commerce features, and real-time functionality (e.g. WebSockets). Grow in my skill-set and experience enough to be considered for a junior-mid level position in the indusrty(specifically as a game engine programmer or any position within a company tha builds and maintains a game engine). Start applying for jobs specifically in the game engine industry.
+    - **Specific**: While working at the entry-level position, I will learn the key skills required to launch a game dev platform, including advanced web development, e-commerce features, and real-time functionality (e.g. WebSockets). Grow in my skill-set and experience enough to be considered for a junior-mid level position in the industry(specifically as a game engine programmer or any position within a company that builds and maintains a game engine). Start applying for jobs specifically in the game engine industry.
 
     - **Measurable**: Research and learn through online courses, tutorials, and projects focused on game dev platforms, building game engines, and e-commerce systems. Build small proof of concept projects based on each new area of learning. Start in a position in a company that specifically works on game engines.
 
-    - **Achievable**: Dedicate 5-10 hours per week towards building a roadmap of what skills are required and beginning the process towards acquiring these skills. One small project a month on key learning areas. Reasearch companies that specialize in the field of game engine design and maintainence, apply to these companies (one every 2 weeks) after 6 months of working in my entry level software dev job.
+    - **Achievable**: Dedicate 5-10 hours per week towards building a roadmap of what skills are required and beginning the process towards acquiring these skills. One small project a month on key learning areas. Research companies that specialize in the field of game engine design and maintenance, apply to these companies (one every 2 weeks) after 6 months of working in my entry level software dev job.
 
     - **Relevant**: Learning these skills and working in the particular field will be crucial for building and maintaining the platform once I am ready to launch it. This is inline with my final goal of being able to own my own business.
 
@@ -240,7 +244,7 @@ By completing this reflection, you will gain a clearer understanding of your car
     - **Time-bound**: Aim for an MVP soft launch within 18 months of starting the build.
 
 
-    **Goal 5:** Begin building the game engine and start researching how to scale a game engine so that devs can use the engine. The other option is to use a open source game engine and integrate that into the website game dev platform just until I have the resources required to build my own custom engine.
+    **Goal 5:** Begin building the game engine and start researching how to scale a game engine so that devs can use the engine. The other option is to use an open source game engine and integrate that into the website game dev platform just until I have the resources required to build my own custom engine.
 
     - **Specific**: Research and development into creating a game engine that satisfies my ambition of creating a engine that provides devs with a great experience when developing a game and users a great experience no matter the hardware that they own (cloud gaming is not really a interest for me until most countries all have great internet access and servers close-by). 
 
@@ -263,14 +267,14 @@ By completing this reflection, you will gain a clearer understanding of your car
 
      - Action: Dedicate consistent hours weekly to complete bootcamp lessons, finish projects, and understand both front-end and back-end technologies. Continuous research and practice.
     - Outcome: Gain proficiency in Full-Stack development and be capable of building user-friendly, functional web applications.
-    - Resources & Support: Money to pay for the bootcamp. Time to work on my coursework. Energy to focus on submitting work of a high quaility. Support of my wife in times where I will not have much time outside of my full-time job and the bootcamp coursework. Emotional support in times where I feel burntout. 
+    - Resources & Support: Money to pay for the bootcamp. Time to work on my coursework. Energy to focus on submitting work of a high quality. Support of my wife in times where I will not have much time outside of my full-time job and the bootcamp coursework. Emotional support in times where I feel burnt-out. 
 
 
     **Plan 2:** Apply for Entry-Level Full-Stack Developer Jobs
 
     - Action: Create a standout portfolio, highlight completed bootcamp projects, and apply for at least 5 jobs per week.
     - Outcome: Secure a position where I can work on live applications, improving my skills and gaining real-world experience.
-    -  Resources & Support: Most importantly I will need the support of my network and CodeSpace to help me get my portfolio and CV in front of the relavent people. I will need time and energy to learn how to apply and interview effectivley.
+    -  Resources & Support: Most importantly I will need the support of my network and CodeSpace to help me get my portfolio and CV in front of the relavent people. I will need time and energy to learn how to apply and interview effectively.
 
 
 2. **Preparation for Long-term Goals**:
@@ -281,9 +285,9 @@ By completing this reflection, you will gain a clearer understanding of your car
     **Plan 3:** Learn Advanced Web Development & Game Platform Features
 
     - Action: Spend time studying the advanced technologies for real-time applications (e.g. WebSockets), e-commerce systems (e.g. payment gateways), and backend architecture for scalability. Leverage my new experience working in the industry and new skills to apply for jobs in the game engine programming field.
-    - Outcome: Acquire the knowledge to eventually develop the full features required for a game dev platform website. Be considered for a junior-mid level position in the game engine field and sofware dev industry as a whole.
+    - Outcome: Acquire the knowledge to eventually develop the full features required for a game dev platform website. Be considered for a junior-mid level position in the game engine field and software dev industry as a whole.
     - Resources & Support: At this stage I believe that a mentor in the industry would greatly benefit my progression.
-    
+
 
     **Plan 4:** Launch Game Dev Platform Website MVP
 
@@ -301,45 +305,45 @@ By completing this reflection, you will gain a clearer understanding of your car
    **Balancing Bootcamp & Current Job**
     - One of the biggest challenges will be managing my time effectively while completing the CodeSpace Bootcamp and working full-time.
 
-    **Strategy to Overcome It:**
-    - Stick to a structured schedule but allowing myself time to recover and not burnout.
-    - Increase my coding time when I am on holiday from my current job.
+        **Strategy to Overcome It:**
+        - Stick to a structured schedule but allow myself time to recover and not burnout.
+        - Increase my coding time when I am on holiday from my current job.
 
 
     **Getting an Entry-Level Job Without Professional Experience**
-    - Breaking into the tech industry without prior professional experience or a relavent cs degree will be challenging.
+    - Breaking into the tech industry without prior professional experience or a relevant cs degree will be challenging.
 
-    **Strategy to Overcome It:**
-    - Build a strong portfolio featuring complete, polished projects, including personal and bootcamp projects.
-    - Contribute to open-source projects to showcase practical experience and collaboration skills.
-    - Leverage the current connections that I have in the tech industry to get my portfolio out to potential employers.
-    - Build at least one fully functional project where all the features work as they would if the project was rolled out for sale/use by the general public (not just mock data and mock feature functionality).
+        **Strategy to Overcome It:**
+        - Build a strong portfolio featuring complete, polished projects, including personal and bootcamp projects.
+        - Contribute to open-source projects to showcase practical experience and collaboration skills.
+        - Leverage the current connections that I have in the tech industry to get my portfolio out to potential employers.
+        - Build at least one fully functional project where all the features work as they would if the project was rolled out for sale/use by the general public (not just mock data and mock feature functionality).
 
 
     **Learning Advanced Web Development Concepts**
     - Scaling applications, handling transactions, and implementing real-time communications functionality will require advanced technical knowledge.
 
-    **Strategy to Overcome It:**
-    - Focus on one advanced topic at a time instead of trying to learn everything at once.
-    - Build small prototype projects to apply concepts in a hands-on manner.
-    - Take structured online courses focused on advanced web development topics (I have seen that with the CodeSpace bootcamp that I am kept focused and structured with a curated program/course).
+        **Strategy to Overcome It:**
+        - Focus on one advanced topic at a time instead of trying to learn everything at once.
+        - Build small prototype projects to apply concepts in a hands-on manner.
+        - Take structured online courses focused on advanced web development topics (I have seen that with the CodeSpace bootcamp that I am kept focused and structured with a curated program/course).
 
 
-    **Developing a Mimimal Viable Product prototype**
+    **Developing a Minimal Viable Product prototype**
     - Creating a functional MVP of the game dev platform website/or any similar idea while working what will hopefully be my first full-time job in the tech industry will be very difficult.
 
-    **Strategy to Overcome It:**
-    - Use existing libraries and frameworks like Next.js for server-side rendering (SSR), Stripe for payments, and Firebase for authentication to speed up development.
-    - Focus on a prototype MVP with only the most essential features, and iterate over time.
+        **Strategy to Overcome It:**
+        - Use existing libraries and frameworks like Next.js for server-side rendering (SSR), Stripe for payments, and Firebase for authentication to speed up development.
+        - Focus on a prototype MVP with only the most essential features, and iterate over time.
 
 
     **Game Engine Complexity**
     - Developing a custom game engine from scratch is highly complex and time-consuming, requiring deep knowledge of graphics programming, physics, and optimization.
 
-    **Strategy to Overcome It:**
-    - Build the project around open-source game engines like Godot or Bevy instead of building from scratch.
-    - Join game dev communities to learn from experienced developers and avoid common pitfalls.
-    - Work on modifying existing engines to gain experience before attempting a fully custom engine.
+        **Strategy to Overcome It:**
+        - Build the project around open-source game engines like Godot or Bevy instead of building from scratch.
+        - Join game dev communities to learn from experienced developers and avoid common pitfalls.
+        - Work on modifying existing engines to gain experience before attempting a fully custom engine.
 
 
 2. **Opportunities for Growth**:
@@ -348,39 +352,39 @@ By completing this reflection, you will gain a clearer understanding of your car
     - Include networking, mentorship, or educational opportunities.
 
     **Networking & Mentorship**
-    - Connecting with experienced developers and peers in a similar point in their learning journey can provide invaluable guidance, job referrals, and learning opportunities. Keeping in contact with friends that currently work in the tech industry will give me the opportunity to have my portfolio assessed by a industry professional when it is ready.
+    - Connecting with experienced developers and peers in an similar point in their learning journey can provide invaluable guidance, job referrals, and learning opportunities. Keeping in contact with friends that currently work in the tech industry will give me the opportunity to have my portfolio assessed by an industry professional when it is ready.
 
-    **How to Leverage It:**
-    - Attend local tech meetups, hackathons, and online coding communities like Discord and Reddit.
-    - Reach out to professionals on LinkedIn for informational interviews and mentorship.
-    - Engage in CodeSpace alumni networks to learn from those who have successfully landed jobs. 
+        **How to Leverage It:**
+        - Attend local tech meetups, hackathons, and online coding communities like Discord and Reddit.
+        - Reach out to professionals on LinkedIn for informational interviews and mentorship.
+        - Engage in CodeSpace alumni networks to learn from those who have successfully landed jobs. 
 
 
     **Internships & Open-Source Contributions**
     - Hands-on experience through internships or contributing to open-source projects can make up for a lack of formal work experience.
 
-    **How to Leverage It:**
-    - Look for start-ups, freelance projects, or contract roles to gain industry exposure.
-    - Contribute to open-source projects related to web development or game engines.
-    - Use GitHub actively to showcase contributions and projects quality.
+        **How to Leverage It:**
+        - Look for start-ups, freelance projects, or contract roles to gain industry exposure.
+        - Contribute to open-source projects related to web development or game engines.
+        - Use GitHub actively to showcase contributions and project quality.
 
 
     **Building a Unique Portfolio**
     - A strong portfolio with real-world applications.
 
-    **How to Leverage It:**
-    - Building real-world prototype projects that display more advanced skills.
-    - Ensure projects have detailed documentation and live demos.
-    - Include features that demonstrate the appropriate skills for the positions/field that I am interested in and apply to.
+        **How to Leverage It:**
+        - Building real-world prototype projects that display more advanced skills.
+        - Ensure projects have detailed documentation and live demos.
+        - Include features that demonstrate the appropriate skills for the positions/field that I am interested in and apply to.
 
 
     **CodeSpace Career Services & Alumni Network**
     - CodeSpace offers career support and job placement assistance.
 
-    **How to Leverage It:**
-    - Utilize career coaching and resume-building sessions.
-    - Participate in mock interviews to improve technical and behavioral interview skills.
-    - Connect with alumni who work at tech companies to gain insights and potential referrals.
+        **How to Leverage It:**
+        - Utilize career coaching and resume-building sessions.
+        - Participate in mock interviews to improve technical and behavioral interview skills.
+        - Connect with alumni who work at tech companies to gain insights and potential referrals.
 
 
 
