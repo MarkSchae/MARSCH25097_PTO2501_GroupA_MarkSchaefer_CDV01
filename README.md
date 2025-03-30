@@ -202,7 +202,7 @@ By completing this reflection, you will gain a clearer understanding of your car
 
     **Goal 2:** Secure an Entry-Level Full-Stack Developer Job
 
-        - **Specific**: Obtain a full-time or part-time entry-level software developer job (preferably in an environment where I can be mentored). A bonus would be to work in a company that values mentorship and upskilling their employees for the future. I imagine I would need some time and experience before I become a valuable employee in the tech industry.
+    - **Specific**: Obtain a full-time or part-time entry-level software developer job (preferably in an environment where I can be mentored). A bonus would be to work in a company that values mentorship and upskilling their employees for the future. I imagine I would need some time and experience before I become a valuable employee in the tech industry.
 
     - **Measurable**: Apply to at least 5 jobs per week and attend interviews until securing an appropriate position to start to build my future in the industry. Reach out to my network for advice and guidance throughout this process.
 
@@ -265,7 +265,7 @@ By completing this reflection, you will gain a clearer understanding of your car
 
     **Plan 1:** Study Full-Stack Software Development (Bootcamp)
 
-     - Action: Dedicate consistent hours weekly to complete bootcamp lessons, finish projects, and understand both front-end and back-end technologies. Continuous research and practice.
+    - Action: Dedicate consistent hours weekly to complete bootcamp lessons, finish projects, and understand both front-end and back-end technologies. Continuous research and practice.
     - Outcome: Gain proficiency in Full-Stack development and be capable of building user-friendly, functional web applications.
     - Resources & Support: Money to pay for the bootcamp. Time to work on my coursework. Energy to focus on submitting work of a high quality. Support of my wife in times where I will not have much time outside of my full-time job and the bootcamp coursework. Emotional support in times where I feel burnt-out. 
 
